@@ -96,6 +96,7 @@ pie title Language Usage Distribution
     "Python" : 12.3
     "HTML/CSS" : 4.7
     "Others" : 3.5
+</div>
 📊 Language Usage Charts
 <div align="center">
 📁 Repository Language Distribution
