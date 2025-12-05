@@ -164,7 +164,6 @@ https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-000000?style=for-the-badge&l
 https://img.shields.io/badge/%F0%9F%93%A7_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
 https://img.shields.io/badge/%F0%9F%93%9D_Blog-FF5722?style=for-the-badge&logo=medium&logoColor=white
 https://img.shields.io/badge/%F0%9F%92%BB_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white
-
 </div>
 ✨ Fun Facts & Interests
 <div align="center"><table> <tr> <td align="center"> <img src="https://img.icons8.com/color/96/000000/code.png" width="60"/> <br/> <b>Open Source</b> <br/> <sub>Active contributor</sub> </td> <td align="center"> <img src="https://img.icons8.com/color/96/000000/gaming.png" width="60"/> <br/> <b>Game Dev</b> <br/> <sub>Unity & Godot</sub> </td> <td align="center"> <img src="https://img.icons8.com/color/96/000000/guitar.png" width="60"/> <br/> <b>Music</b> <br/> <sub>Guitar & Piano</sub> </td> <td align="center"> <img src="https://img.icons8.com/color/96/000000/traveler.png" width="60"/> <br/> <b>Travel</b> <br/> <sub>15+ countries</sub> </td> </tr> </table></div>
