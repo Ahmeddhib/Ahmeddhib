@@ -187,13 +187,13 @@ const ahmed = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ahmed.dhib&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5722&icon_color=FF5722&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Ahmed.dhib&theme=radical&hide_border=true&background=0D1117&stroke=FF5722&ring=FF5722&fire=FF5722&currStreakLabel=FF5722&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=8B949E" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ahmeddhib&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5722&icon_color=FF5722&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Ahmeddhib&theme=radical&hide_border=true&background=0D1117&stroke=FF5722&ring=FF5722&fire=FF5722&currStreakLabel=FF5722&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=8B949E" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed.dhib&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5722&text_color=FFFFFF&langs_count=10&hide=html,css" alt="Top Languages"/>
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Ahmed.dhib&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5722&text_color=FFFFFF" alt="Top Contributed Repos"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmeddhib&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5722&text_color=FFFFFF&langs_count=10&hide=html,css" alt="Top Languages"/>
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Ahmeddhib&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5722&text_color=FFFFFF" alt="Top Contributed Repos"/>
 </div>
 
 <!-- Activity Graph -->
