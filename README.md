@@ -633,6 +633,17 @@ timeline
 </p>
 </div>
 
+## 📊 Languages Percentage Graph
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmeddhib&layout=donut-vertical&show_icons=true&theme=radical&hide_border=false" />
+</p>
+
+## 📊 Languages Bar Chart (with percentages)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmeddhib&layout=compact&show_icons=true&theme=radical&hide_border=false" />
+</p>
+
+
 javascript// Final Message
 const message = {
   thanks: "Thanks for visiting my profile! 🙏",
