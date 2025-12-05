@@ -623,15 +623,15 @@ Afficher l'image
 
 📊 Profile Statistics
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed.dhib&theme=radical" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmeddhib&theme=radical" alt="Profile Summary"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmed.dhib&theme=radical" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmed.dhib&theme=radical" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmeddhib&theme=radical" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmeddhib&theme=radical" alt="Most Commit Language"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmed.dhib&theme=radical" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahmed.dhib&theme=radical" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmeddhib&theme=radical" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahmeddhib&theme=radical" alt="Productive Time"/>
 </p>
 
 javascript// Final Message
@@ -653,7 +653,7 @@ message.farewell();
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer"/>
 </p>
 <p align="center">
-  <sub>⭐ From <a href="https://github.com/Ahmed.dhib">Ahmed Dhib</a> with ❤️</sub>
+  <sub>⭐ From <a href="https://github.com/Ahmeddhib">Ahmed Dhib</a> with ❤️</sub>
   <br>
   <sub>✨ Dynamically generated with passion and code</sub>
 </p>
