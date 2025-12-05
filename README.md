@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-FF5722?style=for-the-badge&logo=target&logoColor=white" alt="Focus"/>
   <img src="https://img.shields.io/badge/Experience-3%2B%20Years-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Experience"/>
   <img src="https://img.shields.io/badge/Projects-42%2B-2962FF?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
-  <img src="https://komarev.com/ghpvc/?username=Ahmed.dhib&color=FF5722&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Ahmeddhib&color=FF5722&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 <!-- Social Links with Hover Effects -->
@@ -258,7 +258,7 @@ YAML         █░░░░░░░░░░░░░░░░░░░░░ 
 <a href="https://pack-dashboard.vercel.app/shop">
   <img src="https://img.shields.io/badge/🌐_Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
 </a>
-<a href="https://github.com/Ahmed.dhib/ecommerce-platform">
+<a href="https://github.com/Ahmeddhib/ecommerce-platform">
   <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
 </a>
 
@@ -289,7 +289,7 @@ YAML         █░░░░░░░░░░░░░░░░░░░░░ 
 <a href="https://github.com/Ahmeddhib/chat-app">
   <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
 </a>
-<a href="https://github.com/Ahmed.dhib/chat-app">
+<a href="https://github.com/Ahmeddhib/chat-app">
   <img src="https://img.shields.io/badge/🔧_Active_Development-FF5722?style=for-the-badge&logo=rocket&logoColor=white" alt="Status"/>
 </a>
 
