@@ -197,14 +197,14 @@ const ahmed = {
 </div>
 
 <!-- Activity Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed.dhib&bg_color=0D1117&color=FFFFFF&line=FF5722&point=FFFFFF&area=true&hide_border=true&title_color=FF5722&area_color=FF5722" alt="Contribution Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmeddhib&bg_color=0D1117&color=FFFFFF&line=FF5722&point=FFFFFF&area=true&hide_border=true&title_color=FF5722&area_color=FF5722" alt="Contribution Graph"/>
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed.dhib&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Issues,Followers" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahmeddhib&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Issues,Followers" alt="Trophies"/>
 </div>
 
 ---
@@ -278,15 +278,15 @@ YAML         █░░░░░░░░░░░░░░░░░░░░░ 
 - 🔐 Authentication & Authorization
 - 📱 Fully Responsive Design
 
-<img src="https://img.shields.io/github/stars/Ahmed.dhib/ecommerce-platform?style=social" alt="Stars"/>
-<img src="https://img.shields.io/github/forks/Ahmed.dhib/ecommerce-platform?style=social" alt="Forks"/>
+<img src="https://img.shields.io/github/stars/Ahmeddhib/ecommerce-platform?style=social" alt="Stars"/>
+<img src="https://img.shields.io/github/forks/Ahmeddhib/ecommerce-platform?style=social" alt="Forks"/>
 
 </td>
 <td width="50%">
 
 ### 💬 Real-Time Chat Application
 
-<a href="https://github.com/Ahmed.dhib/chat-app">
+<a href="https://github.com/Ahmeddhib/chat-app">
   <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
 </a>
 <a href="https://github.com/Ahmed.dhib/chat-app">
@@ -309,8 +309,8 @@ YAML         █░░░░░░░░░░░░░░░░░░░░░ 
 - 📎 File Sharing
 - 🔔 Push Notifications
 
-<img src="https://img.shields.io/github/stars/Ahmed.dhib/chat-app?style=social" alt="Stars"/>
-<img src="https://img.shields.io/github/forks/Ahmed.dhib/chat-app?style=social" alt="Forks"/>
+<img src="https://img.shields.io/github/stars/Ahmeddhib/chat-app?style=social" alt="Stars"/>
+<img src="https://img.shields.io/github/forks/Ahmeddhib/chat-app?style=social" alt="Forks"/>
 
 </td>
 </tr>
@@ -320,10 +320,10 @@ YAML         █░░░░░░░░░░░░░░░░░░░░░ 
 
 ### 📋 Task Management System
 
-<a href="https://github.com/Ahmed.dhib/task-manager">
+<a href="https://github.com/Ahmeddhib/task-manager">
   <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
 </a>
-<a href="https://github.com/Ahmed.dhib/task-manager">
+<a href="https://github.com/Ahmeddhib/task-manager">
   <img src="https://img.shields.io/badge/✅_Completed-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status"/>
 </a>
 
@@ -343,8 +343,8 @@ YAML         █░░░░░░░░░░░░░░░░░░░░░ 
 - 📈 Progress Analytics
 - ⏰ Time Tracking
 
-<img src="https://img.shields.io/github/stars/Ahmed.dhib/task-manager?style=social" alt="Stars"/>
-<img src="https://img.shields.io/github/forks/Ahmed.dhib/task-manager?style=social" alt="Forks"/>
+<img src="https://img.shields.io/github/stars/Ahmeddhib/task-manager?style=social" alt="Stars"/>
+<img src="https://img.shields.io/github/forks/Ahmeddhib/task-manager?style=social" alt="Forks"/>
 
 </td>
 <td width="50%">
