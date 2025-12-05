@@ -132,7 +132,7 @@ YAML          ░░░░░░░░░░░░░░░░░░░░░░
 ## 🚀 Featured Projects
 
 ### 🛒 E-Commerce Platform
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://demo.ahmeddhib.dev)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://demo.ahmeddhib.dev](https://pack-dashboard.vercel.app/shop))
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmed.dhib/ecommerce-platform)
 
 **Tech Stack:** Next.js 14 • TypeScript • MongoDB • Stripe • Tailwind CSS
