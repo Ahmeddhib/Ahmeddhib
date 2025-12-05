@@ -26,7 +26,7 @@
   <a href="https://leetcode.com/ahmeddhib"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
-</div>
+
 
 ---
 
@@ -646,3 +646,4 @@ message.farewell();
   <sub>✨ Dynamically generated with passion and code</sub>
 </p>
 </div></parameter>
+</div>
