@@ -1,24 +1,56 @@
-# 🚀 Ahmed Dhib — Portfolio & GitHub Profile
+<div align="center">
 
-Bienvenue sur mon espace GitHub ! Voici une version **modernisée, élégante et optimisée** de ton README profil GitHub, avec :
+<!-- Hacker Matrix Background (GIF) - wrapper with inline style and fallback image -->
+<div align="center" style="background-image: url('https://i.gifer.com/Bp1p.gif'); background-size: cover; background-position: center; padding: 36px 24px; border-radius: 12px;">
 
-* 🎨 Design moderne
-* 📊 Widgets dynamiques
-* ⏱️ Statistiques WakaTime corrigées
-* 🐍 Animation Snake (contribution graph)
-* 🌗 Mode Light/Dark auto
-* ⚡ Performance optimisée
-* 📘 Section Projets & Stacks
+<!-- Fallback image for platforms that strip background-image -->
+<img src="https://i.gifer.com/Bp1p.gif" alt="Matrix Background" style="display:none;max-width:100%;height:auto;" />
+
+<!-- Animated Header (Capsule) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahmed%20Dhib&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&descSize=16&descAlignY=51" alt="Ahmed Dhib"/>
+
+<!-- Typing Animation -->
+<p align="center" style="margin-top:12px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF5722&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Building+Digital+Experiences+%F0%9F%9A%80;Clean+Code+Advocate+%E2%9C%A8;Full+Stack+Developer+%F0%9F%92%BB;Innovation+Enthusiast+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
+
+<!-- Badges -->
+<p align="center" style="margin-top:10px;">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-FF5722?style=for-the-badge&logo=target&logoColor=white" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Projects-42%2B-2962FF?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+  <img src="https://komarev.com/ghpvc/?username=Ahmeddhib&color=FF5722&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+</p>
+
+<!-- Social -->
+<p align="center" style="margin-top:12px;">
+  <a href="https://linkedin.com/in/ahmeddhib"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/ahmed_dhib"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://ahmeddhib.dev"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:contact@ahmeddhib.dev"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://blog.ahmeddhib.dev"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/></a>
+  <a href="https://leetcode.com/ahmeddhib"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+</p>
+
+</div> <!-- end background wrapper -->
+
+</div>
 
 ---
 
-# 👋 Hello, I'm **Ahmed Dhib**
+## 👨‍💻 About Me
 
-🎓 Software Engineer | 💻 Full‑Stack Developer | 🚀 DevOps Enthusiast | 🧠 AI & Cloud Lover
+```typescript
+const ahmed = {
+  role: "Full Stack Developer",
+  experience: "3+ years",
+  location: "Tunis, Tunisia 🇹🇳",
+  passion: "Transforming complex problems into elegant solutions",
+  philosophy: "Clean code is not written by following rules. It's written by someone who cares.",
+  currentFocus: ["Microservices", "Kubernetes", "CI/CD", "Open Source"],
+  funFact: "I can debug code faster than I can find my keys! 🔑"
+};
 
-Passionné par le développement web, Java, DevOps, les systèmes distribués et la création de solutions logicielles robustes.
-
----
 
 ## 📬 Connect With Me
 
