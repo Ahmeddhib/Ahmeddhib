@@ -1,4 +1,4 @@
-<div align="center" style="background-image: url('https://i.imgur.com/1ZQZ1Zm.gif'); background-size: cover; padding: 40px 0; border-radius: 12px;">
+<div align="center">
 
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahmed%20Dhib&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Tech%20Enthusiast%20|%20Problem%20Solver&descSize=16&descAlignY=51"/>
@@ -16,17 +16,29 @@
   <img src="https://komarev.com/ghpvc/?username=Ahmeddhib&color=FF5722&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </p>
 
-<!-- Social Links -->
+<!-- Social Links with Hover Effects -->
 <p align="center">
-  <a href="https://linkedin.com/in/ahmeddhib"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/ahmed_dhib"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://ahmeddhib.dev"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="mailto:contact@ahmeddhib.dev"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://blog.ahmeddhib.dev"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
-  <a href="https://leetcode.com/ahmeddhib"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://linkedin.com/in/ahmeddhib">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/ahmed_dhib">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+  </a>
+  <a href="https://ahmeddhib.dev">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:contact@ahmeddhib.dev">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://blog.ahmeddhib.dev">
+    <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/>
+  </a>
+  <a href="https://leetcode.com/ahmeddhib">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
 </p>
 
-
+</div>
 
 ---
 
@@ -646,4 +658,3 @@ message.farewell();
   <sub>✨ Dynamically generated with passion and code</sub>
 </p>
 </div></parameter>
-</div>
