@@ -91,6 +91,46 @@ Expose OpenMoji en API et consommation via JavaFX.
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedDhib\&layout=compact\&theme=tokyonight\&hide_border=true)
 
+<!-- Matrix Background Animation -->
+
+<div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; background: black; overflow: hidden;">
+  <canvas id="matrixCanvas" style="width:100%; height:100%;"></canvas>
+  <script>
+    const canvas = document.getElementById('matrixCanvas');
+    const ctx = canvas.getContext('2d');
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+
+```
+const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789';
+const fontSize = 16;
+const columns = canvas.width / fontSize;
+const drops = Array(Math.floor(columns)).fill(1);
+
+function draw() {
+  ctx.fillStyle = 'rgba(0, 0, 0, 0.05)';
+  ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+  ctx.fillStyle = '#0F0';
+  ctx.font = fontSize + 'px monospace';
+
+  for (let i = 0; i < drops.length; i++) {
+    const char = chars.charAt(Math.floor(Math.random() * chars.length));
+    ctx.fillText(char, i * fontSize, drops[i] * fontSize);
+
+    if (drops[i] * fontSize > canvas.height && Math.random() > 0.975) {
+      drops[i] = 0;
+    }
+    drops[i]++;
+  }
+}
+
+setInterval(draw, 33);
+```
+
+  </script>
+</div>
+
 </div>
 
 ---
