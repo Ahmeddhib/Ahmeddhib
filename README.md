@@ -208,6 +208,29 @@ const ahmed = {
 </div>
 
 ---
+📈 Contribution Snake
+<div align="center">
+Afficher l'image
+</div>
+
+<div align="center">
+💭 Random Dev Quote
+Afficher l'image
+😂 Dev Humor
+<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
+
+📊 Profile Statistics
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmeddhib&theme=radical" alt="Profile Summary"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmeddhib&theme=radical" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmeddhib&theme=radical" alt="Most Commit Language"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmeddhib&theme=radical" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahmeddhib&theme=radical" alt="Productive Time"/>
+</p>
 
 ## 📈 Coding Activity & Stats
 
@@ -609,30 +632,6 @@ timeline
   <img src="https://img.shields.io/badge/Clean%20Code-✨-00C853?style=flat-square"/>
 </p>
 </div>
-
-📈 Contribution Snake
-<div align="center">
-Afficher l'image
-</div>
-
-<div align="center">
-💭 Random Dev Quote
-Afficher l'image
-😂 Dev Humor
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
-
-📊 Profile Statistics
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmeddhib&theme=radical" alt="Profile Summary"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmeddhib&theme=radical" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmeddhib&theme=radical" alt="Most Commit Language"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmeddhib&theme=radical" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahmeddhib&theme=radical" alt="Productive Time"/>
-</p>
 
 javascript// Final Message
 const message = {
