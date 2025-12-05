@@ -232,6 +232,16 @@ Afficher l'image
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahmeddhib&theme=radical" alt="Productive Time"/>
 </p>
 
+## 📊 Languages Percentage Graph
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmeddhib&layout=donut-vertical&show_icons=true&theme=radical&hide_border=false" />
+</p>
+
+## 📊 Languages Bar Chart (with percentages)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmeddhib&layout=compact&show_icons=true&theme=radical&hide_border=false" />
+</p>
+
 ## 📈 Coding Activity & Stats
 
 <div align="center">
@@ -632,16 +642,6 @@ timeline
   <img src="https://img.shields.io/badge/Clean%20Code-✨-00C853?style=flat-square"/>
 </p>
 </div>
-
-## 📊 Languages Percentage Graph
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmeddhib&layout=donut-vertical&show_icons=true&theme=radical&hide_border=false" />
-</p>
-
-## 📊 Languages Bar Chart (with percentages)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmeddhib&layout=compact&show_icons=true&theme=radical&hide_border=false" />
-</p>
 
 
 javascript// Final Message
