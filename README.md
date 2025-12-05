@@ -86,9 +86,8 @@ I'm a passionate full-stack developer with **3+ years** of experience creating s
 ## 🔥 Language Usage Analysis
 
 ### 📈 Detailed Language Breakdown
-
 <div align="center">
-  
+
 ```mermaid
 pie title Language Usage Distribution
     "JavaScript" : 35.2
@@ -101,7 +100,6 @@ pie title Language Usage Distribution
 <div align="center">
 📁 Repository Language Distribution
 https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed.dhib&layout=pie&theme=github_dark&title_color=FF5722&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5
-
 TypeScript    ███████████████░░░░░░░░░░   62.8%
 JavaScript    ██████████░░░░░░░░░░░░░░   41.2%
 Java          ██████░░░░░░░░░░░░░░░░░░   26.3%
@@ -110,7 +108,6 @@ HTML/CSS      ██░░░░░░░░░░░░░░░░░░░░
 Docker        █░░░░░░░░░░░░░░░░░░░░░░░   5.7%
 SQL           █░░░░░░░░░░░░░░░░░░░░░░░   4.3%
 YAML          ░░░░░░░░░░░░░░░░░░░░░░░░   2.1%
-
 🎯 Language Progression Over Time
 <div align="center">
 Language	Current Level	Progress Bar	Projects Used
@@ -121,37 +118,27 @@ Python	Intermediate	██████████░░░░░░░░ 55%	6
 React	Expert	██████████████████ 92%	14 projects
 Node.js	Advanced	███████████████░░░ 82%	10 projects
 </div>
-
 🏆 GitHub Trophies
 <div align="center">
 https://github-profile-trophy.vercel.app/?username=Ahmed.dhib&theme=onedark&no-frame=true&margin-w=15&margin-h=15&column=7
-
 </div>
 🚀 Featured Projects
 🎯 E-Commerce Platform
 https://img.shields.io/badge/%F0%9F%94%97_Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white
 https://img.shields.io/badge/%F0%9F%93%81_Repository-181717?style=for-the-badge&logo=github&logoColor=white
-
 Tech Stack: Next.js 14 • TypeScript • MongoDB • Stripe • Tailwind CSS
-
 <div align="center">
 https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%9B%92%2520E-Commerce%2520Platform&align=center&titleAlign=center&lineCount=2&line1=next.js,next.js,61dbfb;typescript,typescript,007acc;mongodb,mongodb,47a248&line2=stripe,stripe,008cdd;tailwindcss,tailwindcss,38b2ac;vercel,vercel,000000
-
 </div>
 💬 Real-Time Chat App
 https://img.shields.io/badge/%F0%9F%93%81_Repository-181717?style=for-the-badge&logo=github&logoColor=white
-
 Tech Stack: Socket.io • React • Node.js • Redis • Docker
-
 📋 Task Management System
 https://img.shields.io/badge/%F0%9F%93%81_Repository-181717?style=for-the-badge&logo=github&logoColor=white
-
 Tech Stack: Angular • Java Spring Boot • PostgreSQL • Docker
-
 📈 Activity Graph
 <div align="center">
 https://github-readme-activity-graph.vercel.app/graph?username=Ahmed.dhib&theme=github-dark&hide_border=true&area=true&custom_title=Development%2520Activity%2520%F0%9F%93%88&height=300
-
 </div>
 🎯 Development Philosophy
 <div align="center">
