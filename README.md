@@ -18,7 +18,7 @@
 
 <!-- Social Links with Hover Effects -->
 <p align="center">
-  <a href="[https://linkedin.com/in/ahmeddhib/ahmed-dhib-b1254826b/]">
+  <a href="https://linkedin.com/in/ahmeddhib/ahmed-dhib-b1254826b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/ahmed_dhib">
